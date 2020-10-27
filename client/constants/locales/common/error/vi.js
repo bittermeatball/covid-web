@@ -37,4 +37,6 @@ export default {
   FORBIDDEN: 'Không truy cập được',
   NOT_CHANGE_ANOTHER_AUTHORS_ITEM:
     'Bạn không được thay đổi nội dung của người khác',
+  FILE_UPLOAD_FAILED: 'Tải tệp tin thất bại',
+  FILE_DELETE_FAILED: 'Xóa tệp tin thất bại',
 }

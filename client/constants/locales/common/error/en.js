@@ -35,4 +35,6 @@ export default {
   NOT_FOUND: 'Not found',
   FORBIDDEN: 'Forbidden',
   NOT_CHANGE_ANOTHER_AUTHORS_ITEM: "You cannot update others' content",
+  FILE_UPLOAD_FAILED: 'File upload failed',
+  FILE_DELETE_FAILED: 'File delete failed',
 }

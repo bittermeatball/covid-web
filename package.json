@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "nuxt",
+    "dev:mock": "json-server server/index.js",
     "build": "nuxt build",
     "start": "nuxt start",
     "export": "nuxt export",
@@ -40,6 +41,7 @@
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-nuxt": "^1.0.0",
     "eslint-plugin-prettier": "^3.1.4",
+    "json-server": "^0.16.2",
     "node-sass": "^4.14.1",
     "prettier": "^2.0.5",
     "sass-loader": "^8.0.2"
