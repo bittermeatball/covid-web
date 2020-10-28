@@ -1,5 +1,15 @@
 <template>
   <el-main class="p-0 h-screen w-screen relative">
+    <el-button
+      class="absolute z-10"
+      style="top: 1rem; left: 50%; transform: translateX(-50%)"
+      type="primary"
+      round
+      @click="$router.push('/')"
+    >
+      <!--  -->
+      Global
+    </el-button>
     <NewStatusIndex class="lg:block md:hidden" :vietnam="vietnam" />
     <TotalStatusIndex class="lg:block md:hidden" :vietnam="vietnam" />
     <DataTable :data="vietnamese" />
@@ -83,7 +93,7 @@
   </el-main>
 </template>
 <script>
-import { mapState, mapActions } from 'vuex'
+import { mapState } from 'vuex'
 import { covidActions } from '~/constants/vuex/covid'
 import {
   NewStatusIndex,
@@ -93,21 +103,14 @@ import {
 import { mapConfig } from '~/constants/config/google/map'
 export default {
   name: 'Home',
-  meta: {
-    config: {
-      auth: false,
-      permission: ['ALL'],
-    },
-  },
-  middleware: ['auth'],
   components: {
     NewStatusIndex,
     TotalStatusIndex,
     DataTable,
   },
-  async fetch() {
-    await this.fetchVietnam()
-    await this.fetchVietnamesePatients()
+  async asyncData({ store }) {
+    await store.dispatch(covidActions.FETCH.VIETNAM)
+    await store.dispatch(covidActions.FETCH.VIETNAMESE_PATIENTS)
   },
   data() {
     return {
@@ -134,10 +137,6 @@ export default {
     })
   },
   methods: {
-    ...mapActions({
-      fetchVietnamesePatients: covidActions.FETCH.VIETNAMESE_PATIENTS,
-      fetchVietnam: covidActions.FETCH.VIETNAM,
-    }),
     handleZoom(zoom) {
       this.viewZoom = 1000000 / (zoom * zoom * zoom)
     },

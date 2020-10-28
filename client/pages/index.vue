@@ -2,6 +2,16 @@
   <el-main class="p-0 h-screen w-screen relative">
     <NewStatusIndex :global="global" />
     <TotalStatusIndex :global="global" />
+    <el-button
+      class="absolute z-10 text-yellow"
+      style="top: 1rem; left: 50%; transform: translateX(-50%)"
+      type="danger"
+      round
+      @click="$router.push('/vietnam')"
+    >
+      <!--  -->
+      Vietnam
+    </el-button>
     <!-- Google map is third-party app that only available on client-side -->
     <client-only>
       <GmapMap
@@ -106,25 +116,18 @@
   </el-main>
 </template>
 <script>
-import { mapState, mapActions } from 'vuex'
+import { mapState } from 'vuex'
 import { covidActions } from '~/constants/vuex/covid'
 import { NewStatusIndex, TotalStatusIndex } from '~/components/uncommon/Home'
 import { mapConfig } from '~/constants/config/google/map'
 export default {
   name: 'Home',
-  meta: {
-    config: {
-      auth: false,
-      permission: ['ALL'],
-    },
-  },
-  middleware: ['auth'],
   components: {
     NewStatusIndex,
     TotalStatusIndex,
   },
-  async fetch() {
-    await this.fetchSummary()
+  async asyncData({ store }) {
+    await store.dispatch(covidActions.FETCH.SUMMARY)
   },
   data() {
     return {
@@ -150,9 +153,6 @@ export default {
     })
   },
   methods: {
-    ...mapActions({
-      fetchSummary: covidActions.FETCH.SUMMARY,
-    }),
     renderRadius(total) {
       if (total < 10000) {
         return 10000
