@@ -18,4 +18,16 @@ export default {
     )
     commit(covidMutations.SET.COUNTRIES, countries, { root: true })
   },
+  async fetchVietnam({ commit }) {
+    const { data } = await this.$clientApi.get(
+      'https://corona.lmao.ninja/v2/countries/vn'
+    )
+    commit(covidMutations.SET.VIETNAM, data, { root: true })
+  },
+  async fetchVietnamesePatients({ commit }) {
+    const { data } = await this.$clientApi.get(
+      'https://maps.vnpost.vn/apps/covid19/api/patientapi/list'
+    )
+    commit(covidMutations.SET.VIETNAMESE, data.data, { root: true })
+  },
 }

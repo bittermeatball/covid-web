@@ -10,23 +10,15 @@
   >
     <h3 class="text-theme-1">
       <span class="font-bold"> Total Confirmed: </span>
-      <AnimatedNumber
-        :value="global.TotalConfirmed"
-        :duration="5"
-        class="ml-1"
-      />
+      <AnimatedNumber :value="vietnam.cases" :duration="5" class="ml-1" />
     </h3>
     <h3 class="text-theme-1">
       <span class="font-bold"> Total Deaths: </span>
-      <AnimatedNumber :value="global.TotalDeaths" :duration="5" class="ml-1" />
+      <AnimatedNumber :value="vietnam.deaths" :duration="5" class="ml-1" />
     </h3>
     <h3 class="text-success">
       <span class="font-bold"> Total Recovered: </span>
-      <AnimatedNumber
-        :value="global.TotalRecovered"
-        :duration="5"
-        class="ml-1"
-      />
+      <AnimatedNumber :value="vietnam.recovered" :duration="5" class="ml-1" />
     </h3>
   </div>
 </template>
@@ -37,7 +29,7 @@ export default {
     AnimatedNumber,
   },
   props: {
-    global: {
+    vietnam: {
       type: Object,
       required: true,
     },

@@ -14,7 +14,7 @@
         New Confirmed:
       </p>
       <AnimatedNumber
-        :value="global.NewConfirmed"
+        :value="vietnam.todayCases"
         :duration="5"
         class="ml-1 text-6xl font-bold"
       />
@@ -25,7 +25,7 @@
         New Deaths:
       </p>
       <AnimatedNumber
-        :value="global.NewDeaths"
+        :value="vietnam.todayDeaths"
         :duration="5"
         class="ml-1 text-6xl font-bold"
       />
@@ -36,7 +36,7 @@
         New Recovered:
       </p>
       <AnimatedNumber
-        :value="global.NewRecovered"
+        :value="vietnam.todayRecovered"
         :duration="5"
         class="ml-1 text-6xl font-bold"
       />
@@ -50,7 +50,7 @@ export default {
     AnimatedNumber,
   },
   props: {
-    global: {
+    vietnam: {
       type: Object,
       required: true,
     },
