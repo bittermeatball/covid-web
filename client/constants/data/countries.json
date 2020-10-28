@@ -1,0 +1,1466 @@
+[
+  {
+      "CountryCode": "AD",
+      "lat": "42.546245",
+      "lng": "1.601554",
+      "Country": "Andorra"
+  },
+  {
+      "CountryCode": "AE",
+      "lat": "23.424076",
+      "lng": "53.847818",
+      "Country": "United Arab Emirates"
+  },
+  {
+      "CountryCode": "AF",
+      "lat": "33.93911",
+      "lng": "67.709953",
+      "Country": "Afghanistan"
+  },
+  {
+      "CountryCode": "AG",
+      "lat": "17.060816",
+      "lng": "-61.796428",
+      "Country": "Antigua and Barbuda"
+  },
+  {
+      "CountryCode": "AI",
+      "lat": "18.220554",
+      "lng": "-63.068615",
+      "Country": "Anguilla"
+  },
+  {
+      "CountryCode": "AL",
+      "lat": "41.153332",
+      "lng": "20.168331",
+      "Country": "Albania"
+  },
+  {
+      "CountryCode": "AM",
+      "lat": "40.069099",
+      "lng": "45.038189",
+      "Country": "Armenia"
+  },
+  {
+      "CountryCode": "AN",
+      "lat": "12.226079",
+      "lng": "-69.060087",
+      "Country": "Netherlands Antilles"
+  },
+  {
+      "CountryCode": "AO",
+      "lat": "-11.202692",
+      "lng": "17.873887",
+      "Country": "Angola"
+  },
+  {
+      "CountryCode": "AQ",
+      "lat": "-75.250973",
+      "lng": "-0.071389",
+      "Country": "Antarctica"
+  },
+  {
+      "CountryCode": "AR",
+      "lat": "-38.416097",
+      "lng": "-63.616672",
+      "Country": "Argentina"
+  },
+  {
+      "CountryCode": "AS",
+      "lat": "-14.270972",
+      "lng": "-170.132217",
+      "Country": "American Samoa"
+  },
+  {
+      "CountryCode": "AT",
+      "lat": "47.516231",
+      "lng": "14.550072",
+      "Country": "Austria"
+  },
+  {
+      "CountryCode": "AU",
+      "lat": "-25.274398",
+      "lng": "133.775136",
+      "Country": "Australia"
+  },
+  {
+      "CountryCode": "AW",
+      "lat": "12.52111",
+      "lng": "-69.968338",
+      "Country": "Aruba"
+  },
+  {
+      "CountryCode": "AZ",
+      "lat": "40.143105",
+      "lng": "47.576927",
+      "Country": "Azerbaijan"
+  },
+  {
+      "CountryCode": "BA",
+      "lat": "43.915886",
+      "lng": "17.679076",
+      "Country": "Bosnia and Herzegovina"
+  },
+  {
+      "CountryCode": "BB",
+      "lat": "13.193887",
+      "lng": "-59.543198",
+      "Country": "Barbados"
+  },
+  {
+      "CountryCode": "BD",
+      "lat": "23.684994",
+      "lng": "90.356331",
+      "Country": "Bangladesh"
+  },
+  {
+      "CountryCode": "BE",
+      "lat": "50.503887",
+      "lng": "4.469936",
+      "Country": "Belgium"
+  },
+  {
+      "CountryCode": "BF",
+      "lat": "12.238333",
+      "lng": "-1.561593",
+      "Country": "Burkina Faso"
+  },
+  {
+      "CountryCode": "BG",
+      "lat": "42.733883",
+      "lng": "25.48583",
+      "Country": "Bulgaria"
+  },
+  {
+      "CountryCode": "BH",
+      "lat": "25.930414",
+      "lng": "50.637772",
+      "Country": "Bahrain"
+  },
+  {
+      "CountryCode": "BI",
+      "lat": "-3.373056",
+      "lng": "29.918886",
+      "Country": "Burundi"
+  },
+  {
+      "CountryCode": "BJ",
+      "lat": "9.30769",
+      "lng": "2.315834",
+      "Country": "Benin"
+  },
+  {
+      "CountryCode": "BM",
+      "lat": "32.321384",
+      "lng": "-64.75737",
+      "Country": "Bermuda"
+  },
+  {
+      "CountryCode": "BN",
+      "lat": "4.535277",
+      "lng": "114.727669",
+      "Country": "Brunei"
+  },
+  {
+      "CountryCode": "BO",
+      "lat": "-16.290154",
+      "lng": "-63.588653",
+      "Country": "Bolivia"
+  },
+  {
+      "CountryCode": "BR",
+      "lat": "-14.235004",
+      "lng": "-51.92528",
+      "Country": "Brazil"
+  },
+  {
+      "CountryCode": "BS",
+      "lat": "25.03428",
+      "lng": "-77.39628",
+      "Country": "Bahamas"
+  },
+  {
+      "CountryCode": "BT",
+      "lat": "27.514162",
+      "lng": "90.433601",
+      "Country": "Bhutan"
+  },
+  {
+      "CountryCode": "BV",
+      "lat": "-54.423199",
+      "lng": "3.413194",
+      "Country": "Bouvet Island"
+  },
+  {
+      "CountryCode": "BW",
+      "lat": "-22.328474",
+      "lng": "24.684866",
+      "Country": "Botswana"
+  },
+  {
+      "CountryCode": "BY",
+      "lat": "53.709807",
+      "lng": "27.953389",
+      "Country": "Belarus"
+  },
+  {
+      "CountryCode": "BZ",
+      "lat": "17.189877",
+      "lng": "-88.49765",
+      "Country": "Belize"
+  },
+  {
+      "CountryCode": "CA",
+      "lat": "56.130366",
+      "lng": "-106.346771",
+      "Country": "Canada"
+  },
+  {
+      "CountryCode": "CC",
+      "lat": "-12.164165",
+      "lng": "96.870956",
+      "Country": "Cocos [Keeling] Islands"
+  },
+  {
+      "CountryCode": "CD",
+      "lat": "-4.038333",
+      "lng": "21.758664",
+      "Country": "Congo [DRC]"
+  },
+  {
+      "CountryCode": "CF",
+      "lat": "6.611111",
+      "lng": "20.939444",
+      "Country": "Central African Republic"
+  },
+  {
+      "CountryCode": "CG",
+      "lat": "-0.228021",
+      "lng": "15.827659",
+      "Country": "Congo [Republic]"
+  },
+  {
+      "CountryCode": "CH",
+      "lat": "46.818188",
+      "lng": "8.227512",
+      "Country": "Switzerland"
+  },
+  {
+      "CountryCode": "CI",
+      "lat": "7.539989",
+      "lng": "-5.54708",
+      "Country": "Côte d'Ivoire"
+  },
+  {
+      "CountryCode": "CK",
+      "lat": "-21.236736",
+      "lng": "-159.777671",
+      "Country": "Cook Islands"
+  },
+  {
+      "CountryCode": "CL",
+      "lat": "-35.675147",
+      "lng": "-71.542969",
+      "Country": "Chile"
+  },
+  {
+      "CountryCode": "CM",
+      "lat": "7.369722",
+      "lng": "12.354722",
+      "Country": "Cameroon"
+  },
+  {
+      "CountryCode": "CN",
+      "lat": "35.86166",
+      "lng": "104.195397",
+      "Country": "China"
+  },
+  {
+      "CountryCode": "CO",
+      "lat": "4.570868",
+      "lng": "-74.297333",
+      "Country": "Colombia"
+  },
+  {
+      "CountryCode": "CR",
+      "lat": "9.748917",
+      "lng": "-83.753428",
+      "Country": "Costa Rica"
+  },
+  {
+      "CountryCode": "CU",
+      "lat": "21.521757",
+      "lng": "-77.781167",
+      "Country": "Cuba"
+  },
+  {
+      "CountryCode": "CV",
+      "lat": "16.002082",
+      "lng": "-24.013197",
+      "Country": "Cape Verde"
+  },
+  {
+      "CountryCode": "CX",
+      "lat": "-10.447525",
+      "lng": "105.690449",
+      "Country": "Christmas Island"
+  },
+  {
+      "CountryCode": "CY",
+      "lat": "35.126413",
+      "lng": "33.429859",
+      "Country": "Cyprus"
+  },
+  {
+      "CountryCode": "CZ",
+      "lat": "49.817492",
+      "lng": "15.472962",
+      "Country": "Czech Republic"
+  },
+  {
+      "CountryCode": "DE",
+      "lat": "51.165691",
+      "lng": "10.451526",
+      "Country": "Germany"
+  },
+  {
+      "CountryCode": "DJ",
+      "lat": "11.825138",
+      "lng": "42.590275",
+      "Country": "Djibouti"
+  },
+  {
+      "CountryCode": "DK",
+      "lat": "56.26392",
+      "lng": "9.501785",
+      "Country": "Denmark"
+  },
+  {
+      "CountryCode": "DM",
+      "lat": "15.414999",
+      "lng": "-61.370976",
+      "Country": "Dominica"
+  },
+  {
+      "CountryCode": "DO",
+      "lat": "18.735693",
+      "lng": "-70.162651",
+      "Country": "Dominican Republic"
+  },
+  {
+      "CountryCode": "DZ",
+      "lat": "28.033886",
+      "lng": "1.659626",
+      "Country": "Algeria"
+  },
+  {
+      "CountryCode": "EC",
+      "lat": "-1.831239",
+      "lng": "-78.183406",
+      "Country": "Ecuador"
+  },
+  {
+      "CountryCode": "EE",
+      "lat": "58.595272",
+      "lng": "25.013607",
+      "Country": "Estonia"
+  },
+  {
+      "CountryCode": "EG",
+      "lat": "26.820553",
+      "lng": "30.802498",
+      "Country": "Egypt"
+  },
+  {
+      "CountryCode": "EH",
+      "lat": "24.215527",
+      "lng": "-12.885834",
+      "Country": "Western Sahara"
+  },
+  {
+      "CountryCode": "ER",
+      "lat": "15.179384",
+      "lng": "39.782334",
+      "Country": "Eritrea"
+  },
+  {
+      "CountryCode": "ES",
+      "lat": "40.463667",
+      "lng": "-3.74922",
+      "Country": "Spain"
+  },
+  {
+      "CountryCode": "ET",
+      "lat": "9.145",
+      "lng": "40.489673",
+      "Country": "Ethiopia"
+  },
+  {
+      "CountryCode": "FI",
+      "lat": "61.92411",
+      "lng": "25.748151",
+      "Country": "Finland"
+  },
+  {
+      "CountryCode": "FJ",
+      "lat": "-16.578193",
+      "lng": "179.414413",
+      "Country": "Fiji"
+  },
+  {
+      "CountryCode": "FK",
+      "lat": "-51.796253",
+      "lng": "-59.523613",
+      "Country": "Falkland Islands [Islas Malvinas]"
+  },
+  {
+      "CountryCode": "FM",
+      "lat": "7.425554",
+      "lng": "150.550812",
+      "Country": "Micronesia"
+  },
+  {
+      "CountryCode": "FO",
+      "lat": "61.892635",
+      "lng": "-6.911806",
+      "Country": "Faroe Islands"
+  },
+  {
+      "CountryCode": "FR",
+      "lat": "46.227638",
+      "lng": "2.213749",
+      "Country": "France"
+  },
+  {
+      "CountryCode": "GA",
+      "lat": "-0.803689",
+      "lng": "11.609444",
+      "Country": "Gabon"
+  },
+  {
+      "CountryCode": "GB",
+      "lat": "55.378051",
+      "lng": "-3.435973",
+      "Country": "United Kingdom"
+  },
+  {
+      "CountryCode": "GD",
+      "lat": "12.262776",
+      "lng": "-61.604171",
+      "Country": "Grenada"
+  },
+  {
+      "CountryCode": "GE",
+      "lat": "42.315407",
+      "lng": "43.356892",
+      "Country": "Georgia"
+  },
+  {
+      "CountryCode": "GF",
+      "lat": "3.933889",
+      "lng": "-53.125782",
+      "Country": "French Guiana"
+  },
+  {
+      "CountryCode": "GG",
+      "lat": "49.465691",
+      "lng": "-2.585278",
+      "Country": "Guernsey"
+  },
+  {
+      "CountryCode": "GH",
+      "lat": "7.946527",
+      "lng": "-1.023194",
+      "Country": "Ghana"
+  },
+  {
+      "CountryCode": "GI",
+      "lat": "36.137741",
+      "lng": "-5.345374",
+      "Country": "Gibraltar"
+  },
+  {
+      "CountryCode": "GL",
+      "lat": "71.706936",
+      "lng": "-42.604303",
+      "Country": "Greenland"
+  },
+  {
+      "CountryCode": "GM",
+      "lat": "13.443182",
+      "lng": "-15.310139",
+      "Country": "Gambia"
+  },
+  {
+      "CountryCode": "GN",
+      "lat": "9.945587",
+      "lng": "-9.696645",
+      "Country": "Guinea"
+  },
+  {
+      "CountryCode": "GP",
+      "lat": "16.995971",
+      "lng": "-62.067641",
+      "Country": "Guadeloupe"
+  },
+  {
+      "CountryCode": "GQ",
+      "lat": "1.650801",
+      "lng": "10.267895",
+      "Country": "Equatorial Guinea"
+  },
+  {
+      "CountryCode": "GR",
+      "lat": "39.074208",
+      "lng": "21.824312",
+      "Country": "Greece"
+  },
+  {
+      "CountryCode": "GS",
+      "lat": "-54.429579",
+      "lng": "-36.587909",
+      "Country": "South Georgia and the South Sandwich Islands"
+  },
+  {
+      "CountryCode": "GT",
+      "lat": "15.783471",
+      "lng": "-90.230759",
+      "Country": "Guatemala"
+  },
+  {
+      "CountryCode": "GU",
+      "lat": "13.444304",
+      "lng": "144.793731",
+      "Country": "Guam"
+  },
+  {
+      "CountryCode": "GW",
+      "lat": "11.803749",
+      "lng": "-15.180413",
+      "Country": "Guinea-Bissau"
+  },
+  {
+      "CountryCode": "GY",
+      "lat": "4.860416",
+      "lng": "-58.93018",
+      "Country": "Guyana"
+  },
+  {
+      "CountryCode": "GZ",
+      "lat": "31.354676",
+      "lng": "34.308825",
+      "Country": "Gaza Strip"
+  },
+  {
+      "CountryCode": "HK",
+      "lat": "22.396428",
+      "lng": "114.109497",
+      "Country": "Hong Kong"
+  },
+  {
+      "CountryCode": "HM",
+      "lat": "-53.08181",
+      "lng": "73.504158",
+      "Country": "Heard Island and McDonald Islands"
+  },
+  {
+      "CountryCode": "HN",
+      "lat": "15.199999",
+      "lng": "-86.241905",
+      "Country": "Honduras"
+  },
+  {
+      "CountryCode": "HR",
+      "lat": "45.1",
+      "lng": "15.2",
+      "Country": "Croatia"
+  },
+  {
+      "CountryCode": "HT",
+      "lat": "18.971187",
+      "lng": "-72.285215",
+      "Country": "Haiti"
+  },
+  {
+      "CountryCode": "HU",
+      "lat": "47.162494",
+      "lng": "19.503304",
+      "Country": "Hungary"
+  },
+  {
+      "CountryCode": "ID",
+      "lat": "-0.789275",
+      "lng": "113.921327",
+      "Country": "Indonesia"
+  },
+  {
+      "CountryCode": "IE",
+      "lat": "53.41291",
+      "lng": "-8.24389",
+      "Country": "Ireland"
+  },
+  {
+      "CountryCode": "IL",
+      "lat": "31.046051",
+      "lng": "34.851612",
+      "Country": "Israel"
+  },
+  {
+      "CountryCode": "IM",
+      "lat": "54.236107",
+      "lng": "-4.548056",
+      "Country": "Isle of Man"
+  },
+  {
+      "CountryCode": "IN",
+      "lat": "20.593684",
+      "lng": "78.96288",
+      "Country": "India"
+  },
+  {
+      "CountryCode": "IO",
+      "lat": "-6.343194",
+      "lng": "71.876519",
+      "Country": "British Indian Ocean Territory"
+  },
+  {
+      "CountryCode": "IQ",
+      "lat": "33.223191",
+      "lng": "43.679291",
+      "Country": "Iraq"
+  },
+  {
+      "CountryCode": "IR",
+      "lat": "32.427908",
+      "lng": "53.688046",
+      "Country": "Iran"
+  },
+  {
+      "CountryCode": "IS",
+      "lat": "64.963051",
+      "lng": "-19.020835",
+      "Country": "Iceland"
+  },
+  {
+      "CountryCode": "IT",
+      "lat": "41.87194",
+      "lng": "12.56738",
+      "Country": "Italy"
+  },
+  {
+      "CountryCode": "JE",
+      "lat": "49.214439",
+      "lng": "-2.13125",
+      "Country": "Jersey"
+  },
+  {
+      "CountryCode": "JM",
+      "lat": "18.109581",
+      "lng": "-77.297508",
+      "Country": "Jamaica"
+  },
+  {
+      "CountryCode": "JO",
+      "lat": "30.585164",
+      "lng": "36.238414",
+      "Country": "Jordan"
+  },
+  {
+      "CountryCode": "JP",
+      "lat": "36.204824",
+      "lng": "138.252924",
+      "Country": "Japan"
+  },
+  {
+      "CountryCode": "KE",
+      "lat": "-0.023559",
+      "lng": "37.906193",
+      "Country": "Kenya"
+  },
+  {
+      "CountryCode": "KG",
+      "lat": "41.20438",
+      "lng": "74.766098",
+      "Country": "Kyrgyzstan"
+  },
+  {
+      "CountryCode": "KH",
+      "lat": "12.565679",
+      "lng": "104.990963",
+      "Country": "Cambodia"
+  },
+  {
+      "CountryCode": "KI",
+      "lat": "-3.370417",
+      "lng": "-168.734039",
+      "Country": "Kiribati"
+  },
+  {
+      "CountryCode": "KM",
+      "lat": "-11.875001",
+      "lng": "43.872219",
+      "Country": "Comoros"
+  },
+  {
+      "CountryCode": "KN",
+      "lat": "17.357822",
+      "lng": "-62.782998",
+      "Country": "Saint Kitts and Nevis"
+  },
+  {
+      "CountryCode": "KP",
+      "lat": "40.339852",
+      "lng": "127.510093",
+      "Country": "North Korea"
+  },
+  {
+      "CountryCode": "KR",
+      "lat": "35.907757",
+      "lng": "127.766922",
+      "Country": "South Korea"
+  },
+  {
+      "CountryCode": "KW",
+      "lat": "29.31166",
+      "lng": "47.481766",
+      "Country": "Kuwait"
+  },
+  {
+      "CountryCode": "KY",
+      "lat": "19.513469",
+      "lng": "-80.566956",
+      "Country": "Cayman Islands"
+  },
+  {
+      "CountryCode": "KZ",
+      "lat": "48.019573",
+      "lng": "66.923684",
+      "Country": "Kazakhstan"
+  },
+  {
+      "CountryCode": "LA",
+      "lat": "19.85627",
+      "lng": "102.495496",
+      "Country": "Laos"
+  },
+  {
+      "CountryCode": "LB",
+      "lat": "33.854721",
+      "lng": "35.862285",
+      "Country": "Lebanon"
+  },
+  {
+      "CountryCode": "LC",
+      "lat": "13.909444",
+      "lng": "-60.978893",
+      "Country": "Saint Lucia"
+  },
+  {
+      "CountryCode": "LI",
+      "lat": "47.166",
+      "lng": "9.555373",
+      "Country": "Liechtenstein"
+  },
+  {
+      "CountryCode": "LK",
+      "lat": "7.873054",
+      "lng": "80.771797",
+      "Country": "Sri Lanka"
+  },
+  {
+      "CountryCode": "LR",
+      "lat": "6.428055",
+      "lng": "-9.429499",
+      "Country": "Liberia"
+  },
+  {
+      "CountryCode": "LS",
+      "lat": "-29.609988",
+      "lng": "28.233608",
+      "Country": "Lesotho"
+  },
+  {
+      "CountryCode": "lat",
+      "lat": "55.169438",
+      "lng": "23.881275",
+      "Country": "Lithuania"
+  },
+  {
+      "CountryCode": "LU",
+      "lat": "49.815273",
+      "lng": "6.129583",
+      "Country": "Luxembourg"
+  },
+  {
+      "CountryCode": "LV",
+      "lat": "56.879635",
+      "lng": "24.603189",
+      "Country": "Latvia"
+  },
+  {
+      "CountryCode": "LY",
+      "lat": "26.3351",
+      "lng": "17.228331",
+      "Country": "Libya"
+  },
+  {
+      "CountryCode": "MA",
+      "lat": "31.791702",
+      "lng": "-7.09262",
+      "Country": "Morocco"
+  },
+  {
+      "CountryCode": "MC",
+      "lat": "43.750298",
+      "lng": "7.412841",
+      "Country": "Monaco"
+  },
+  {
+      "CountryCode": "MD",
+      "lat": "47.411631",
+      "lng": "28.369885",
+      "Country": "Moldova"
+  },
+  {
+      "CountryCode": "ME",
+      "lat": "42.708678",
+      "lng": "19.37439",
+      "Country": "Montenegro"
+  },
+  {
+      "CountryCode": "MG",
+      "lat": "-18.766947",
+      "lng": "46.869107",
+      "Country": "Madagascar"
+  },
+  {
+      "CountryCode": "MH",
+      "lat": "7.131474",
+      "lng": "171.184478",
+      "Country": "Marshall Islands"
+  },
+  {
+      "CountryCode": "MK",
+      "lat": "41.608635",
+      "lng": "21.745275",
+      "Country": "Macedonia [FYROM]"
+  },
+  {
+      "CountryCode": "ML",
+      "lat": "17.570692",
+      "lng": "-3.996166",
+      "Country": "Mali"
+  },
+  {
+      "CountryCode": "MM",
+      "lat": "21.913965",
+      "lng": "95.956223",
+      "Country": "Myanmar [Burma]"
+  },
+  {
+      "CountryCode": "MN",
+      "lat": "46.862496",
+      "lng": "103.846656",
+      "Country": "Mongolia"
+  },
+  {
+      "CountryCode": "MO",
+      "lat": "22.198745",
+      "lng": "113.543873",
+      "Country": "Macau"
+  },
+  {
+      "CountryCode": "MP",
+      "lat": "17.33083",
+      "lng": "145.38469",
+      "Country": "Northern Mariana Islands"
+  },
+  {
+      "CountryCode": "MQ",
+      "lat": "14.641528",
+      "lng": "-61.024174",
+      "Country": "Martinique"
+  },
+  {
+      "CountryCode": "MR",
+      "lat": "21.00789",
+      "lng": "-10.940835",
+      "Country": "Mauritania"
+  },
+  {
+      "CountryCode": "MS",
+      "lat": "16.742498",
+      "lng": "-62.187366",
+      "Country": "Montserrat"
+  },
+  {
+      "CountryCode": "MT",
+      "lat": "35.937496",
+      "lng": "14.375416",
+      "Country": "Malta"
+  },
+  {
+      "CountryCode": "MU",
+      "lat": "-20.348404",
+      "lng": "57.552152",
+      "Country": "Mauritius"
+  },
+  {
+      "CountryCode": "MV",
+      "lat": "3.202778",
+      "lng": "73.22068",
+      "Country": "Maldives"
+  },
+  {
+      "CountryCode": "MW",
+      "lat": "-13.254308",
+      "lng": "34.301525",
+      "Country": "Malawi"
+  },
+  {
+      "CountryCode": "MX",
+      "lat": "23.634501",
+      "lng": "-102.552784",
+      "Country": "Mexico"
+  },
+  {
+      "CountryCode": "MY",
+      "lat": "4.210484",
+      "lng": "101.975766",
+      "Country": "Malaysia"
+  },
+  {
+      "CountryCode": "MZ",
+      "lat": "-18.665695",
+      "lng": "35.529562",
+      "Country": "Mozambique"
+  },
+  {
+      "CountryCode": "NA",
+      "lat": "-22.95764",
+      "lng": "18.49041",
+      "Country": "Namibia"
+  },
+  {
+      "CountryCode": "NC",
+      "lat": "-20.904305",
+      "lng": "165.618042",
+      "Country": "New Caledonia"
+  },
+  {
+      "CountryCode": "NE",
+      "lat": "17.607789",
+      "lng": "8.081666",
+      "Country": "Niger"
+  },
+  {
+      "CountryCode": "NF",
+      "lat": "-29.040835",
+      "lng": "167.954712",
+      "Country": "Norfolk Island"
+  },
+  {
+      "CountryCode": "NG",
+      "lat": "9.081999",
+      "lng": "8.675277",
+      "Country": "Nigeria"
+  },
+  {
+      "CountryCode": "NI",
+      "lat": "12.865416",
+      "lng": "-85.207229",
+      "Country": "Nicaragua"
+  },
+  {
+      "CountryCode": "NL",
+      "lat": "52.132633",
+      "lng": "5.291266",
+      "Country": "Netherlands"
+  },
+  {
+      "CountryCode": "NO",
+      "lat": "60.472024",
+      "lng": "8.468946",
+      "Country": "Norway"
+  },
+  {
+      "CountryCode": "NP",
+      "lat": "28.394857",
+      "lng": "84.124008",
+      "Country": "Nepal"
+  },
+  {
+      "CountryCode": "NR",
+      "lat": "-0.522778",
+      "lng": "166.931503",
+      "Country": "Nauru"
+  },
+  {
+      "CountryCode": "NU",
+      "lat": "-19.054445",
+      "lng": "-169.867233",
+      "Country": "Niue"
+  },
+  {
+      "CountryCode": "NZ",
+      "lat": "-40.900557",
+      "lng": "174.885971",
+      "Country": "New Zealand"
+  },
+  {
+      "CountryCode": "OM",
+      "lat": "21.512583",
+      "lng": "55.923255",
+      "Country": "Oman"
+  },
+  {
+      "CountryCode": "PA",
+      "lat": "8.537981",
+      "lng": "-80.782127",
+      "Country": "Panama"
+  },
+  {
+      "CountryCode": "PE",
+      "lat": "-9.189967",
+      "lng": "-75.015152",
+      "Country": "Peru"
+  },
+  {
+      "CountryCode": "PF",
+      "lat": "-17.679742",
+      "lng": "-149.406843",
+      "Country": "French Polynesia"
+  },
+  {
+      "CountryCode": "PG",
+      "lat": "-6.314993",
+      "lng": "143.95555",
+      "Country": "Papua New Guinea"
+  },
+  {
+      "CountryCode": "PH",
+      "lat": "12.879721",
+      "lng": "121.774017",
+      "Country": "Philippines"
+  },
+  {
+      "CountryCode": "PK",
+      "lat": "30.375321",
+      "lng": "69.345116",
+      "Country": "Pakistan"
+  },
+  {
+      "CountryCode": "PL",
+      "lat": "51.919438",
+      "lng": "19.145136",
+      "Country": "Poland"
+  },
+  {
+      "CountryCode": "PM",
+      "lat": "46.941936",
+      "lng": "-56.27111",
+      "Country": "Saint Pierre and Miquelon"
+  },
+  {
+      "CountryCode": "PN",
+      "lat": "-24.703615",
+      "lng": "-127.439308",
+      "Country": "Pitcairn Islands"
+  },
+  {
+      "CountryCode": "PR",
+      "lat": "18.220833",
+      "lng": "-66.590149",
+      "Country": "Puerto Rico"
+  },
+  {
+      "CountryCode": "PS",
+      "lat": "31.952162",
+      "lng": "35.233154",
+      "Country": "Palestinian Territories"
+  },
+  {
+      "CountryCode": "PT",
+      "lat": "39.399872",
+      "lng": "-8.224454",
+      "Country": "Portugal"
+  },
+  {
+      "CountryCode": "PW",
+      "lat": "7.51498",
+      "lng": "134.58252",
+      "Country": "Palau"
+  },
+  {
+      "CountryCode": "PY",
+      "lat": "-23.442503",
+      "lng": "-58.443832",
+      "Country": "Paraguay"
+  },
+  {
+      "CountryCode": "QA",
+      "lat": "25.354826",
+      "lng": "51.183884",
+      "Country": "Qatar"
+  },
+  {
+      "CountryCode": "RE",
+      "lat": "-21.115141",
+      "lng": "55.536384",
+      "Country": "Réunion"
+  },
+  {
+      "CountryCode": "RO",
+      "lat": "45.943161",
+      "lng": "24.96676",
+      "Country": "Romania"
+  },
+  {
+      "CountryCode": "RS",
+      "lat": "44.016521",
+      "lng": "21.005859",
+      "Country": "Serbia"
+  },
+  {
+      "CountryCode": "RU",
+      "lat": "61.52401",
+      "lng": "105.318756",
+      "Country": "Russia"
+  },
+  {
+      "CountryCode": "RW",
+      "lat": "-1.940278",
+      "lng": "29.873888",
+      "Country": "Rwanda"
+  },
+  {
+      "CountryCode": "SA",
+      "lat": "23.885942",
+      "lng": "45.079162",
+      "Country": "Saudi Arabia"
+  },
+  {
+      "CountryCode": "SB",
+      "lat": "-9.64571",
+      "lng": "160.156194",
+      "Country": "Solomon Islands"
+  },
+  {
+      "CountryCode": "SC",
+      "lat": "-4.679574",
+      "lng": "55.491977",
+      "Country": "Seychelles"
+  },
+  {
+      "CountryCode": "SD",
+      "lat": "12.862807",
+      "lng": "30.217636",
+      "Country": "Sudan"
+  },
+  {
+      "CountryCode": "SE",
+      "lat": "60.128161",
+      "lng": "18.643501",
+      "Country": "Sweden"
+  },
+  {
+      "CountryCode": "SG",
+      "lat": "1.352083",
+      "lng": "103.819836",
+      "Country": "Singapore"
+  },
+  {
+      "CountryCode": "SH",
+      "lat": "-24.143474",
+      "lng": "-10.030696",
+      "Country": "Saint Helena"
+  },
+  {
+      "CountryCode": "SI",
+      "lat": "46.151241",
+      "lng": "14.995463",
+      "Country": "Slovenia"
+  },
+  {
+      "CountryCode": "SJ",
+      "lat": "77.553604",
+      "lng": "23.670272",
+      "Country": "Svalbard and Jan Mayen"
+  },
+  {
+      "CountryCode": "SK",
+      "lat": "48.669026",
+      "lng": "19.699024",
+      "Country": "Slovakia"
+  },
+  {
+      "CountryCode": "SL",
+      "lat": "8.460555",
+      "lng": "-11.779889",
+      "Country": "Sierra Leone"
+  },
+  {
+      "CountryCode": "SM",
+      "lat": "43.94236",
+      "lng": "12.457777",
+      "Country": "San Marino"
+  },
+  {
+      "CountryCode": "SN",
+      "lat": "14.497401",
+      "lng": "-14.452362",
+      "Country": "Senegal"
+  },
+  {
+      "CountryCode": "SO",
+      "lat": "5.152149",
+      "lng": "46.199616",
+      "Country": "Somalia"
+  },
+  {
+      "CountryCode": "SR",
+      "lat": "3.919305",
+      "lng": "-56.027783",
+      "Country": "SuriCountry"
+  },
+  {
+      "CountryCode": "ST",
+      "lat": "0.18636",
+      "lng": "6.613081",
+      "Country": "São Tomé and Príncipe"
+  },
+  {
+      "CountryCode": "SV",
+      "lat": "13.794185",
+      "lng": "-88.89653",
+      "Country": "El Salvador"
+  },
+  {
+      "CountryCode": "SY",
+      "lat": "34.802075",
+      "lng": "38.996815",
+      "Country": "Syria"
+  },
+  {
+      "CountryCode": "SZ",
+      "lat": "-26.522503",
+      "lng": "31.465866",
+      "Country": "Swaziland"
+  },
+  {
+      "CountryCode": "TC",
+      "lat": "21.694025",
+      "lng": "-71.797928",
+      "Country": "Turks and Caicos Islands"
+  },
+  {
+      "CountryCode": "TD",
+      "lat": "15.454166",
+      "lng": "18.732207",
+      "Country": "Chad"
+  },
+  {
+      "CountryCode": "TF",
+      "lat": "-49.280366",
+      "lng": "69.348557",
+      "Country": "French Southern Territories"
+  },
+  {
+      "CountryCode": "TG",
+      "lat": "8.619543",
+      "lng": "0.824782",
+      "Country": "Togo"
+  },
+  {
+      "CountryCode": "TH",
+      "lat": "15.870032",
+      "lng": "100.992541",
+      "Country": "Thailand"
+  },
+  {
+      "CountryCode": "TJ",
+      "lat": "38.861034",
+      "lng": "71.276093",
+      "Country": "Tajikistan"
+  },
+  {
+      "CountryCode": "TK",
+      "lat": "-8.967363",
+      "lng": "-171.855881",
+      "Country": "Tokelau"
+  },
+  {
+      "CountryCode": "TL",
+      "lat": "-8.874217",
+      "lng": "125.727539",
+      "Country": "Timor-Leste"
+  },
+  {
+      "CountryCode": "TM",
+      "lat": "38.969719",
+      "lng": "59.556278",
+      "Country": "Turkmenistan"
+  },
+  {
+      "CountryCode": "TN",
+      "lat": "33.886917",
+      "lng": "9.537499",
+      "Country": "Tunisia"
+  },
+  {
+      "CountryCode": "TO",
+      "lat": "-21.178986",
+      "lng": "-175.198242",
+      "Country": "Tonga"
+  },
+  {
+      "CountryCode": "TR",
+      "lat": "38.963745",
+      "lng": "35.243322",
+      "Country": "Turkey"
+  },
+  {
+      "CountryCode": "TT",
+      "lat": "10.691803",
+      "lng": "-61.222503",
+      "Country": "Trinidad and Tobago"
+  },
+  {
+      "CountryCode": "TV",
+      "lat": "-7.109535",
+      "lng": "177.64933",
+      "Country": "Tuvalu"
+  },
+  {
+      "CountryCode": "TW",
+      "lat": "23.69781",
+      "lng": "120.960515",
+      "Country": "Taiwan"
+  },
+  {
+      "CountryCode": "TZ",
+      "lat": "-6.369028",
+      "lng": "34.888822",
+      "Country": "Tanzania"
+  },
+  {
+      "CountryCode": "UA",
+      "lat": "48.379433",
+      "lng": "31.16558",
+      "Country": "Ukraine"
+  },
+  {
+      "CountryCode": "UG",
+      "lat": "1.373333",
+      "lng": "32.290275",
+      "Country": "Uganda"
+  },
+  {
+      "CountryCode": "US",
+      "lat": "37.09024",
+      "lng": "-95.712891",
+      "Country": "United States"
+  },
+  {
+      "CountryCode": "UY",
+      "lat": "-32.522779",
+      "lng": "-55.765835",
+      "Country": "Uruguay"
+  },
+  {
+      "CountryCode": "UZ",
+      "lat": "41.377491",
+      "lng": "64.585262",
+      "Country": "Uzbekistan"
+  },
+  {
+      "CountryCode": "VA",
+      "lat": "41.902916",
+      "lng": "12.453389",
+      "Country": "Vatican City"
+  },
+  {
+      "CountryCode": "VC",
+      "lat": "12.984305",
+      "lng": "-61.287228",
+      "Country": "Saint Vincent and the Grenadines"
+  },
+  {
+      "CountryCode": "VE",
+      "lat": "6.42375",
+      "lng": "-66.58973",
+      "Country": "Venezuela"
+  },
+  {
+      "CountryCode": "VG",
+      "lat": "18.420695",
+      "lng": "-64.639968",
+      "Country": "British Virgin Islands"
+  },
+  {
+      "CountryCode": "VI",
+      "lat": "18.335765",
+      "lng": "-64.896335",
+      "Country": "U.S. Virgin Islands"
+  },
+  {
+      "CountryCode": "VN",
+      "lat": "14.058324",
+      "lng": "108.277199",
+      "Country": "Vietnam"
+  },
+  {
+      "CountryCode": "VU",
+      "lat": "-15.376706",
+      "lng": "166.959158",
+      "Country": "Vanuatu"
+  },
+  {
+      "CountryCode": "WF",
+      "lat": "-13.768752",
+      "lng": "-177.156097",
+      "Country": "Wallis and Futuna"
+  },
+  {
+      "CountryCode": "WS",
+      "lat": "-13.759029",
+      "lng": "-172.104629",
+      "Country": "Samoa"
+  },
+  {
+      "CountryCode": "XK",
+      "lat": "42.602636",
+      "lng": "20.902977",
+      "Country": "Kosovo"
+  },
+  {
+      "CountryCode": "YE",
+      "lat": "15.552727",
+      "lng": "48.516388",
+      "Country": "Yemen"
+  },
+  {
+      "CountryCode": "YT",
+      "lat": "-12.8275",
+      "lng": "45.166244",
+      "Country": "Mayotte"
+  },
+  {
+      "CountryCode": "ZA",
+      "lat": "-30.559482",
+      "lng": "22.937506",
+      "Country": "South Africa"
+  },
+  {
+      "CountryCode": "ZM",
+      "lat": "-13.133897",
+      "lng": "27.849332",
+      "Country": "Zambia"
+  },
+  {
+      "CountryCode": "ZW",
+      "lat": "-19.015438",
+      "lng": "29.154857",
+      "Country": "Zimbabwe"
+  }
+]

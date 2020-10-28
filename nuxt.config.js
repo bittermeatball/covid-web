@@ -91,6 +91,7 @@ export default {
     '~/plugins/element-ui',
     '~/plugins/i18n.js',
     '~/plugins/vee-validate.js',
+    { src: '~/plugins/google-maps.js', ssr: false },
     // Utilities
     '~/utils/authWrapper.js', // Global AuthWrapper component
     '~/utils/bus.js', // Event bus
@@ -149,7 +150,7 @@ export default {
    ** See https://nuxtjs.org/api/configuration-build/
    */
   build: {
-    transpile: [/^element-ui/, 'vee-validate'],
+    transpile: [/^element-ui/, 'vee-validate', /^vue2-google-maps($|\/)/],
     /*
      ** You can extend webpack config here
      */
