@@ -93,10 +93,10 @@ export default {
     '~/plugins/vee-validate.js',
     { src: '~/plugins/google-maps.js', ssr: false },
     // Utilities
-    '~/utils/authWrapper.js', // Global AuthWrapper component
+    '~/utils/directives', // Vue directives
+    '~/utils/filters', // Filters for custom text formating
+    '~/utils/global-components', // Global components
     '~/utils/bus.js', // Event bus
-    '~/utils/directive.js', // Vue directive
-    '~/utils/filters.js', // Filters for custom text formating
   ],
   /*
    ** Auto import components

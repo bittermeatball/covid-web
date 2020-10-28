@@ -112,6 +112,13 @@ import { NewStatusIndex, TotalStatusIndex } from '~/components/uncommon/Home'
 import { mapConfig } from '~/constants/config/google/map'
 export default {
   name: 'Home',
+  meta: {
+    config: {
+      auth: false,
+      permission: ['ALL'],
+    },
+  },
+  middleware: ['auth'],
   components: {
     NewStatusIndex,
     TotalStatusIndex,
