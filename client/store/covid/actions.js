@@ -24,10 +24,14 @@ export default {
     )
     commit(covidMutations.SET.VIETNAM, data, { root: true })
   },
-  async fetchVietnamesePatients({ commit }) {
-    const { data } = await this.$clientApi.get(
-      'https://maps.vnpost.vn/apps/covid19/api/patientapi/list'
-    )
-    commit(covidMutations.SET.VIETNAMESE, data.data, { root: true })
+  async fetchVietnamesePatients({ commit, dispatch }) {
+    try {
+      const { data } = await this.$clientApi.get(
+        'https://maps.vnpost.vn/apps/covid19/api/patientapi/list'
+      )
+      commit(covidMutations.SET.VIETNAMESE, data.data, { root: true })
+    } catch (err) {
+      commit(covidMutations.SET.VIETNAMESE, [], { root: true })
+    }
   },
 }
