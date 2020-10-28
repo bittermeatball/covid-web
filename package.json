@@ -6,6 +6,7 @@
     "dev": "nuxt",
     "dev:mock": "json-server server/index.js",
     "build": "nuxt build",
+    "build:static": "nuxt build && nuxt generate",
     "start": "nuxt start",
     "export": "nuxt export",
     "serve": "nuxt serve",
