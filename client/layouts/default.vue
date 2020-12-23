@@ -1,5 +1,5 @@
 <template>
-  <div class="p-0 w-full">
+  <div class="p-0 w-screen h-screen overflow-hidden bg-primary-900">
     <nuxt keep-alive />
   </div>
 </template>

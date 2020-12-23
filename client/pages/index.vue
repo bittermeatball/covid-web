@@ -2,16 +2,17 @@
   <el-main class="p-0 h-screen w-screen relative">
     <NewStatusIndex :global="global" />
     <TotalStatusIndex :global="global" />
-    <el-button
-      class="absolute z-10 text-yellow"
-      style="top: 1rem; left: 50%; transform: translateX(-50%)"
-      type="danger"
-      round
-      @click="$router.push('/vietnam')"
-    >
-      <!--  -->
-      Vietnam
-    </el-button>
+    <a href="/vietnam">
+      <el-button
+        class="absolute z-10 text-yellow"
+        style="top: 1rem; left: 50%; transform: translateX(-50%)"
+        type="danger"
+        round
+      >
+        <!--  -->
+        Vietnam
+      </el-button>
+    </a>
     <!-- Google map is third-party app that only available on client-side -->
     <client-only>
       <GmapMap
@@ -104,12 +105,6 @@
               </span>
             </p>
           </div>
-          <div class="text-right">
-            <el-button size="mini" type="primary" round class="mt-3">
-              <!--  -->
-              More details
-            </el-button>
-          </div>
         </GmapInfoWindow>
       </GmapMap>
     </client-only>
@@ -173,7 +168,7 @@ export default {
   },
   head() {
     return {
-      title: this.$t('home.title'),
+      title: this.$t('home.home'),
     }
   },
 }

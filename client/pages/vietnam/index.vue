@@ -1,15 +1,16 @@
 <template>
   <el-main class="p-0 h-screen w-screen relative">
-    <el-button
-      class="absolute z-10"
-      style="top: 1rem; left: 50%; transform: translateX(-50%)"
-      type="primary"
-      round
-      @click="$router.push('/')"
-    >
-      <!--  -->
-      Global
-    </el-button>
+    <a href="/">
+      <el-button
+        class="absolute z-10"
+        style="top: 1rem; left: 50%; transform: translateX(-50%)"
+        type="primary"
+        round
+      >
+        <!--  -->
+        Global
+      </el-button>
+    </a>
     <NewStatusIndex class="lg:block md:hidden" :vietnam="vietnam" />
     <TotalStatusIndex class="lg:block md:hidden" :vietnam="vietnam" />
     <DataTable :data="vietnamese" />
@@ -143,7 +144,7 @@ export default {
   },
   head() {
     return {
-      title: this.$t('home.title'),
+      title: this.$t('home.vietnam'),
     }
   },
 }
